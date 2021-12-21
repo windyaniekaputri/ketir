@@ -1,0 +1,2 @@
+# ketir
+Repository kecerdasan tiruan
